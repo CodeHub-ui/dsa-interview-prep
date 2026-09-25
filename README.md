@@ -140,8 +140,7 @@ interview or hiring outcomes.
 `netlify.toml` is included with a build command (`npm run build`), publish directory
 (`dist`), and an SPA redirect so routes like `/problems` don't 404 on refresh.
 
-### Vercel
-`vercel.json` is included with an equivalent rewrite rule for SPA routing.
+ 
 
 ### GitHub Pages
 Build with `npm run build`, then deploy the `dist/` folder (e.g. via the `gh-pages` package
